@@ -1,4 +1,4 @@
-Project: Retail Sales & Customer Insights Dashboard (Power BI + Python + SQL)
+**Project: Retail Sales & Customer Insights Dashboard (Power BI + Python + SQL)**
 
 This project delivers a comprehensive Retail Sales & Customer Analytics Dashboard built using Power BI, Python, and SQL Server.
 It analyzes $56M+ in sales across 6 product categories, uncovering trends in revenue, gross profit, customer retention, and purchase behavior.
