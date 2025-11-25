@@ -96,8 +96,7 @@ It demonstrates the ability to handle real-world data issues, design robust KPIs
 ---
 
 
----
 
-Would you like me to also create a **shorter LinkedIn-friendly version** (3–4 sections) of this same write-up — formatted for your “Project” section text box?
+
 
 
